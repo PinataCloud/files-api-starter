@@ -1,5 +1,4 @@
 async function main() {
-	// Audio Explanation: https://cdn.stevedylan.dev/files/bafkreihcj63eynqtmnk2pzyfqy5qh6yq264jq4g7wel4shwyjje33gmktq
 	try {
 		// Construct a file according to the Web API
 		const file = new File(["Hello World!"], "hello.txt");
