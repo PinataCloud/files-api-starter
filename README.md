@@ -2,7 +2,7 @@
 
 This repo includes some basic API calls to help get you started using the Files API.
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/sisFpJs6hcg/0.jpg)](https://www.youtube.com/watch?v=sisFpJs6hcg)
+[![IMAGE ALT TEXT HERE](https://dweb.mypinata.cloud/files/bafybeib7vgvirnymt53oefbpvx2tg6v5awr56nze2sihkt4jjcn2q22qfm)](https://www.youtube.com/watch?v=sisFpJs6hcg)
 
 
 > [!TIP]
